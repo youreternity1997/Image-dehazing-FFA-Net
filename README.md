@@ -132,8 +132,8 @@ test on `OTS` or `ITS` dataset
 #### Samples
 
 <p align='center'>
-<img src="fig/0701_0219.png" height="306px" width='413px'> 
-<img src='fig/0701_0219_FFA.png' height="306px" width='413px' >
+<img src="fig/0701_0219.jpg" height="260px" width='413px'> 
+<img src='fig/0701_0219_FFA.png' height="260px" width='413px' >
 </div>
 
 
